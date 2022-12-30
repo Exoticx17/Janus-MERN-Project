@@ -1,0 +1,75 @@
+.chart-nav{
+    height: 250px;
+    padding-top: 125px;
+    margin-top: -139px;
+}
+.nav-img{
+    height: 350px;
+    width: 1405px;
+    margin-bottom: 25px;
+}
+.viewh2{
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+    margin-top: -275px;
+}
+.overall{
+    background-color: #f3f2e8;
+    width: 1300px;
+    text-align: center;
+    margin-left: 50px;
+}
+.one{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 15px;
+}
+.label1{
+    font-size: 27px;
+    font-weight: bold;
+}
+.barone{
+    font-size: 14px;
+    margin-left: -40px;
+    color: #1a6985;
+}
+.two{
+    text-align: center;
+    margin-top: 50px;
+}
+.label2{
+    font-size: 27px;
+    font-weight: bold;
+}
+.bartwo{
+    font-size: 14px;
+    margin-left: -40px;
+    color: #1a6985;
+}
+.three{
+    text-align: center;
+    margin-top: 50px;
+}
+.label3{
+    font-size: 27px;
+    font-weight: bold;
+}
+.barthree{
+    font-size: 14px;
+    margin-left: -40px;
+    color: #1a6985;
+}
+.four{
+    text-align: center;
+    margin-top: 50px;
+}
+.label4{
+    font-size: 27px;
+    font-weight: bold;
+}
+.barfour{
+    font-size: 14px;
+    margin-left: -40px;
+    color: #1a6985;
+}

@@ -1,0 +1,139 @@
+.navcontainer{
+    background-color: #008db1;
+    height: 45px;
+    width: 12643px;
+    position: static;
+    margin-bottom: 15px;;
+    padding-top: 10px;;
+}
+.navlinks{
+    margin-top: -40px;
+}
+.hide{
+    display: none;
+}
+.icon{
+    height: 50px;;
+    width: 65px;
+    margin-top: 30px;
+    background: none;
+    margin-left: 20px;;
+}
+.janus{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 40px;
+}
+.lcourses{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 650px;
+    position: absolute;
+    margin-top: 40px;
+}
+.lcharts{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 825px;
+    position: absolute;
+    margin-top: 40px;
+}
+.ladmin{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 125px;
+    position: absolute;
+    margin-top: 40px;
+}
+.lsubmission{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 975px;
+    position: absolute;
+    margin-top: 40px;
+}
+.llogin{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 1000px;
+    position: absolute;
+    margin-top: 40px;
+}
+.lsignup{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 1125px;
+    position: absolute;
+    margin-top: 40px;
+}
+.llogout{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 1200px;
+    position: absolute;
+    margin-top: -42px;
+}
+.l2courses{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 550px;;
+    position: absolute;
+    margin-top: 40px;
+}
+.l2charts{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 725px;
+    position: absolute;
+    margin-top: 40px;
+}
+.l2submission{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 860px;
+    position: absolute;
+    margin-top: 40px;
+}
+.janus:hover{
+    text-decoration: underline;
+}
+.lcourses:hover{
+    text-decoration: underline;
+}
+.lcharts:hover{
+    text-decoration: underline;
+}
+.admin:hover{
+    text-decoration: underline;
+}
+.lsubmission:hover{
+    text-decoration: underline;
+}
+.llogout:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

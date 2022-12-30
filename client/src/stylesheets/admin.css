@@ -1,0 +1,76 @@
+
+.nadpic-container{
+    margin-top: 45px;
+    background-image: url('../photos/gearhand.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: -15px;
+    filter: blur(.5px);
+    padding-top: 75px
+}
+.aadd{
+    font-size: 35px;
+    color: white;
+    text-shadow: 1px 1px black;
+    margin-left: 250px;
+ }
+ .aaddp{
+     color: white;
+     font-size: 28px;
+     text-shadow: 1px 1px black;
+     margin-left: 150px;
+     margin-top: -5px;
+     font-weight: bold;
+ }
+ .aaddedit{
+     font-size: 23px;
+     color: #008db1;
+     border: 1px solid gray;
+     border-radius: 300px;
+     background-color: white;
+     font-weight: bold;
+     text-decoration: none;
+     height: 77px;
+     width: 400px;
+     margin-left: 185px;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-top: 7px;
+     padding-bottom: 7px;
+ }
+ .achange{
+    font-size: 35px;
+    color: white;
+    text-shadow: 1px 1px black;
+    margin-left: 1060px;
+    margin-top: -150px;
+ }
+ .achangep{
+     color: white;
+     font-size: 28px;
+     text-shadow: 1px 1px black;
+     margin-left: 990px;
+     margin-top: -10px;
+     font-weight: bold;
+ }
+ .aeditdelete{
+     font-size: 23px;
+     color: #008db1;
+     border: 1px solid gray;
+     border-radius: 300px;
+     background-color: white;
+     font-weight: bold;
+     text-decoration: none;
+     height: 77px;
+     width: 400px;
+     margin-left: 1020px;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-top: 7px;
+     padding-bottom: 7px;
+ }
+ .approvable{
+    font-size: 30px;
+    text-align: center;
+ }

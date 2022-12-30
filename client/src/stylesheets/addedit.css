@@ -1,0 +1,206 @@
+.maincon{
+    background-color: #f1f1f1;
+    height: 600px;
+    width: 1200px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: -15px;
+    padding-top: 25px;
+}
+.formedit{
+    margin-bottom: 50px;
+}
+.editerh2{
+    font-size: 33px;
+    font-weight: bold;
+}
+.idedit{
+    border: 1px solid rgb(48, 48, 48);
+    height: 28px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 5px;
+}
+.idedit::placeholder{
+    color: black;
+}
+.edittitle{
+    border: 1px solid rgb(48, 48, 48);
+    height: 28px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 35px;
+}
+.edittitle::placeholder{
+    color: black;
+}
+.editabout{
+    border: 1px solid rgb(48, 48, 48);
+    height: 28px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 35px;
+}
+.editabout::placeholder{
+    color: black;
+}
+.editbody{
+    border: 1px solid rgb(48, 48, 48);
+    height: 65px;
+    width: 500px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 0px;
+    margin-top: 15px;
+}
+.editbody::placeholder{
+    color: black;
+}
+.editauthor{
+    border: 1px solid rgb(48, 48, 48);
+    height: 28px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 35px;
+}
+.editauthor::placeholder{
+    color: black;
+}
+.esubject{
+    border: 1px solid rgb(48, 48, 48);
+    height: 32px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 35px;
+}
+.esubject::placeholder{
+    color: black;
+}
+.homesubmit{
+    border: 1px solid rgb(48, 48, 48);
+    height: 32px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 35px;
+}
+.homesubmit:hover{
+    cursor: pointer;
+    background-color: #d3ae00;
+}
+.adderh2{
+    font-size: 33px;
+    font-weight: bold;
+}
+.ptitle{
+    border: 1px solid rgb(48, 48, 48);
+    height: 28px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 0px;
+}
+.ptitle::placeholder{
+    color: black;
+}
+.pabout{
+    border: 1px solid rgb(48, 48, 48);
+    height: 28px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 100px;
+}
+.pabout::placeholder{
+    color: black;
+}
+.pbody{
+    border: 1px solid rgb(48, 48, 48);
+    height: 65px;
+    width: 500px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 0px;
+    margin-top: 15px;
+}
+.pbody::placeholder{
+    color: black;
+}
+.pauthor{
+    border: 1px solid rgb(48, 48, 48);
+    height: 28px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 100px;
+}
+.pauthor::placeholder{
+    color: black;
+}
+.psubject{
+    border: 1px solid rgb(48, 48, 48);
+    height: 32px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 100px;
+}
+.psubject::placeholder{
+    color: black;
+}
+.psubmit{
+    border: 1px solid rgb(48, 48, 48);
+    height: 32px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00a4d3;
+    margin-left: 35px;
+}
+.psubmit:hover{
+    cursor: pointer;
+    background-color: #d3ae00;
+}

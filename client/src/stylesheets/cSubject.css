@@ -1,0 +1,125 @@
+.piccontain{
+    background-image: url('../photos/ferry.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: -14px;
+    padding-top: 25px;
+}
+.h2pic{
+    font-size: 37px;
+    font-weight: bold;
+    text-align: center;
+}
+.whiteout{
+    background-color: #f1f1f1;
+    width: 1200px;
+    margin-left: 100px;
+    text-align: center;
+    padding-top: 10px;
+}
+.enroll{
+    background-color: #008db1;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 0px;
+}
+.deroll{
+    background-color: #008db1;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 800px;
+}
+.enroll:hover{
+    cursor: pointer;
+    background-color: #b18e00;
+}
+.deroll:hover{
+    cursor: pointer;
+    background-color: #b18e00;
+}
+.subdiv{
+    width: 1000px;
+    margin-left: 100px;
+    height: 85px;
+    border-radius: 4px;
+    background-color: #006e8c;
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+.subtitle{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 20px;
+}
+.subauthor{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 40px;
+}
+.subcategory{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 40px;
+}
+.subabout{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 40px;
+}
+.previous{
+    background-color: #008db1;
+    height: 30px;
+    width: 150px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 0px;
+    margin-bottom: 15px;
+}
+.next{
+    background-color: #008db1;
+    height: 30px;
+    width: 150px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 800px;
+    margin-bottom: 15px;
+}
+.previous:hover{
+    cursor: pointer;
+    background-color: #b18e00;
+}
+.next:hover{
+    cursor: pointer;
+    background-color: #b18e00;
+}

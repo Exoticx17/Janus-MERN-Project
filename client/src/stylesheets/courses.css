@@ -1,0 +1,295 @@
+.button-comp{
+    margin-top: 50px;
+}
+.button-comp Link{
+    text-decoration: none;
+}
+.jhomepic-container{
+    margin-top: 45px;
+    background-image: url('../photos/typing.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    margin-top: -21px;
+    text-align: center;
+    padding-top: 5px;
+}
+.jmainh{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: -85px;
+}
+.jnavform{
+    font-size: 35px;
+    color: black;
+    margin-top: 150px;
+ }
+ .jformp{
+     color: black;
+     font-size: 28px;
+     margin-top: 25px;
+     font-weight: bold;
+ }
+ .jaddchange{
+     font-size: 23px;
+     color: #008db1;
+     border: 1px solid gray;
+     border-radius: 300px;
+     background-color: white;
+     font-weight: bold;
+     text-decoration: none;
+     height: 77px;
+     width: 400px;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-top: 7px;
+     padding-bottom: 7px;
+ }
+#science p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 160px;;
+    margin-top: -80px;;
+}
+#science img{
+    border-radius: 100px;
+    margin-left: 150px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+}
+#entrepreneurship img {
+    border-radius: 100px;
+    margin-left: 550px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+    margin-top: -150px;
+}
+#entrepreneurship p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 543px;;
+    margin-top: -80px;;
+}
+#softskills img{
+    border-radius: 100px;
+    margin-left: 950px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+    margin-top: -150px;
+}
+#softskills p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 965px;;
+    margin-top: -80px;;
+}
+#chemistry img{
+    border-radius: 100px;
+    margin-left: 150px;
+    height: 100px;
+    width: 175px;
+    margin-top: 75px;
+}
+#chemistry p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 160px;;
+    margin-top: 0px;;
+}
+#ai img{
+    border-radius: 100px;
+    margin-left: 550px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+    margin-top: -150px;
+}
+#ai p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 560px;;
+    margin-top: -80px;;
+}
+#statistics img{
+    border-radius: 100px;
+    margin-left: 950px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+    margin-top: -155px;
+}
+#statistics p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 965px;;
+    margin-top: -80px;;
+}
+#engineering img{
+    border-radius: 100px;
+    margin-left: 150px;
+    height: 100px;
+    width: 175px;
+    margin-top: 75px;
+}
+#engineering p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 160px;;
+    margin-top: 0px;;
+}
+#physics img{
+    border-radius: 100px;
+    margin-left: 550px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+    margin-top: -150px;
+}
+#physics p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 560px;;
+    margin-top: -80px;;
+}
+#economics img{
+    border-radius: 100px;
+    margin-left: 950px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+    margin-top: -155px;
+}
+#economics p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 965px;;
+    margin-top: -85px;;
+}
+#sciencehistory img{
+    border-radius: 100px;
+    margin-left: 150px;
+    height: 100px;
+    width: 175px;
+    margin-top: 95px;
+}
+#sciencehistory p {
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+    margin-left: 140px;;
+    margin-top: 0px;;
+}
+#computerscience img{
+    border-radius: 100px;
+    margin-left: 550px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+    margin-top: -150px;
+}
+#computerscience p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 560px;;
+    margin-top: -80px;;
+}
+#electricalengineering img{
+    position: absolute;
+    border-radius: 100px;
+    margin-left: 950px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+    margin-top: -180px;
+}
+#electricalengineering p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 965px;;
+    margin-top: -80px;;
+}
+#webdesign img{
+    border-radius: 100px;
+    margin-left: 550px;
+    height: 100px;
+    width: 175px;
+    margin-bottom: 75px;
+    margin-top: 85px;
+}
+#webdesign p{
+    text-decoration: none;
+    color: #2596be;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    margin-left: 560px;;
+    margin-top: -80px;;
+}
+.final-div{
+    background-color: #B1D3EE;
+    height: 100px;
+    margin-bottom: -50px;
+}
+.finalp{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    padding-top: 25px;
+}
+.button-comp{
+    margin-left: 65px;
+}
+.linkcourse{
+    text-decoration: none;
+}

@@ -1,0 +1,96 @@
+.formcontainer{
+    border: 2px solid rgb(66, 66, 66);
+    border-radius: 5px;
+    width: 960px;
+    height: 225px;
+    margin-left: 135px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #D9EFF5;
+}
+.form-h2{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.learntitle{
+    border: 1px solid rgb(51, 51, 51);
+    border-radius: 3px;
+    font-size: 20px;
+    color:  black;
+    padding-left: 5px;
+    margin-left: 52px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.learntitle::placeholder{
+    color: black;
+}
+.learnabout{
+    border: 1px solid rgb(51, 51, 51);
+    border-radius: 3px;
+    font-size: 20px;
+    color:  black;
+    padding-left: 5px;
+    margin-left: 52px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.learnabout::placeholder{
+    color: black;
+}
+.learnbody{
+    border: 1px solid rgb(51, 51, 51);
+    border-radius: 3px;
+    font-size: 20px;
+    color:  black;
+    padding-left: 5px;
+    margin-left: 52px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.learnbody::placeholder{
+    color: black;
+}
+.learnauthor{
+    border: 1px solid rgb(51, 51, 51);
+    border-radius: 3px;
+    font-size: 20px;
+    color:  black;
+    padding-left: 5px;
+    margin-top: 25px;
+    margin-left: 225px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.learnauthor::placeholder{
+    color: black;
+}
+.learnsubject{
+    border: 1px solid rgb(51, 51, 51);
+    border-radius: 3px;
+    font-size: 20px;
+    color:  black;
+    padding-left: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25px;
+}
+.learnsubject::placeholder{
+    color: black;
+}
+.learnsubject:hover{
+    cursor: pointer;
+}
+.learnsubmit{
+    background-color: #B1D3EE;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    width: 150px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 65px;
+    margin-left: -295px;
+}
+.learnsubmit:hover{
+    background-color: #eeccb1;
+    cursor: pointer;
+}

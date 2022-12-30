@@ -1,0 +1,50 @@
+.mainer{
+    font-size: 34px;
+    text-align: center;
+}
+.boxer{
+    background-color: #f1f1f1;
+    width: 1200px;
+    margin-left: 100px;
+    margin-top: -15px;
+    border-radius: 2px;
+    padding-top: 5px;
+}
+.singlep{
+    width: 1000px;
+    margin-left: 100px;
+    height: 85px;
+    border-radius: 4px;
+    background-color: #006e8c;
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.view-title{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 20px;
+}
+.view-author{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 40px;
+}
+.view-category{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 40px;
+}
+.view-message{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 40px;
+}

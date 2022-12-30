@@ -1,0 +1,139 @@
+.main-form{
+    background-color: #f1f1f1;
+    height: 600px;
+    padding-top: 75px;
+    padding-left: 75px;
+    margin-top: -15px
+}
+.warning{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: -50px;
+    margin-left: -40px;
+}
+.favorite{
+    border: 2px solid grey;
+    border-radius: 6px;
+    width: 550px;
+    height: 175px;
+    margin-left: 25px;
+    background-color: #D9EFF5;
+}
+.learning{
+    border: 2px solid grey;
+    border-radius: 6px;
+    width: 550px;
+    height: 175px;
+    margin-right: 25px;
+    margin-left: 685px;
+    margin-top: -180px;
+    background-color: #D9EFF5;
+}
+.applicable{
+    border: 2px solid grey;
+    border-radius: 6px;
+    width: 550px;
+    height: 175px;
+    margin-left: 25px;
+    margin-top: 50px;
+    background-color: #D9EFF5;
+}
+.project{
+    border: 2px solid grey;
+    border-radius: 6px;
+    width: 550px;
+    height: 175px;
+    margin-left: 25px;
+    margin-left: 685px;
+    margin-top: -180px;
+    background-color: #D9EFF5;
+}
+.favh4{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.learnh4{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.apph4{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.projecth4{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 115px0px;
+}
+.favsubject{
+    border: 1px solid black;
+    border-radius: 3px;
+    color: #2586a8;
+    font-size: 23px;
+    font-weight: bold; 
+    padding-left: 5px;
+    margin-left: 135px;
+    margin-top: 35px;
+}
+.favsubject:hover{
+    cursor: pointer;
+}
+.learningsubject{
+    border: 1px solid black;
+    border-radius: 3px;
+    color: #2586a8;
+    font-size: 23px;
+    font-weight: bold; 
+    padding-left: 5px;
+    margin-left: 135px;
+    margin-top: 10px;
+}
+.learningsubject:hover{
+    cursor: pointer;
+}
+.appsubject{
+    border: 1px solid black;
+    border-radius: 3px;
+    color: #2586a8;
+    font-size: 23px;
+    font-weight: bold; 
+    padding-left: 5px;
+    margin-left: 135px;
+    margin-top: 35px;
+}
+.appsubject:hover{
+    cursor: pointer;
+}
+.projectsubject{
+    border: 1px solid black;
+    border-radius: 3px;
+    color: #2586a8;
+    font-size: 23px;
+    font-weight: bold; 
+    padding-left: 5px;
+    margin-left: 135px;
+    margin-top: 10px;
+}
+.projectsubject:hover{
+    cursor: pointer;
+}
+.missubmit{
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    background-color: #00a4d3;
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 50px;
+    width: 150px;
+    margin-left: 557px;
+    margin-top: 40px;
+}
+.missubmit:hover{
+    cursor: pointer;
+    color: #af573f
+}

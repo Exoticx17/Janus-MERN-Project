@@ -1,0 +1,50 @@
+.lform{
+    border: 2px solid grey;
+    width: 800px;
+    text-align: center;
+    margin-left: 300px;
+    border-radius: 7px;
+    height: 475px;
+    background-color: #f1f1f1;
+    padding-top: 35px;
+}
+.logger{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 0px;
+}
+.lemail{
+    margin-top: 35px;
+    width: 350px;
+    margin-left: 175px;
+}
+.password{
+    margin-top: 75px;
+    width: 350px;
+}
+.lefl{
+    position: absolute;
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: 175px;
+}
+.pfl{
+    position: absolute;
+    margin-top: 45px;
+    font-size: 20px;
+}
+.lsubmit{
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #E863AF;
+    margin-top: 40px;
+    width: 250px;
+    height: 43px;
+    border-radius: 5px;
+    font-size: 20px;;
+}
+.lsubmit:hover{
+    cursor: pointer;
+    background-color: #63afe8;
+    transform: scale(1.2);
+}

@@ -1,0 +1,228 @@
+.shide{
+    display: none;
+}
+.homepic-container{
+    margin-top: 45px;
+    background-image: url('../photos/reading-bench.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    margin-top: -15px;
+    filter: blur(.5px)
+}
+.icon{
+    height: 50px;;
+    width: 65px;
+    margin-top: 30px;
+    background: none;
+    margin-left: 20px;;
+}
+.janus{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 40px;
+}
+.lcourses{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 450px;
+    position: absolute;
+    margin-top: 40px;
+}
+.lcharts{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 575px;
+    position: absolute;
+    margin-top: 40px;
+}
+.kadmin{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 300px;
+    position: absolute;
+    margin-top: 40px;
+}
+.lsubmission{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 825px;
+    position: absolute;
+    margin-top: 40px;
+}
+.llogin{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 975px;
+    position: absolute;
+    margin-top: 40px;
+}
+.lsignup{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 1075px;
+    position: absolute;
+    margin-top: 40px;
+}
+.llogout{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 1100px;
+    position: absolute;
+    margin-top: -42px;
+}
+.l2courses{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 550px;;
+    position: absolute;
+    margin-top: 40px;
+}
+.l2charts{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    margin-left: 700px;
+    position: absolute;
+    margin-top: 40px;
+}
+.janus:hover{
+    text-decoration: underline;
+}
+.lcourses:hover{
+    text-decoration: underline;
+}
+.lcharts:hover{
+    text-decoration: underline;
+}
+.admin:hover{
+    text-decoration: underline;
+}
+.lsubmission:hover{
+    text-decoration: underline;
+}
+.llogout:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.navform{
+   font-size: 35px;
+   color: white;
+   text-shadow: 1px 1px black;
+   margin-left: 350px;
+}
+.formp{
+    color: white;
+    font-size: 28px;
+    text-shadow: 1px 1px black;
+    margin-left: 225px;
+    margin-top: -5px;
+    font-weight: bold;
+}
+.addchange{
+    font-size: 23px;
+    color: #008db1;
+    border: 1px solid gray;
+    border-radius: 300px;
+    background-color: white;
+    font-weight: bold;
+    text-decoration: none;
+    height: 77px;
+    width: 400px;
+    margin-left: 300px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.posts{
+    font-size: 35px;
+   color: white;
+   text-shadow: 1px 1px black;
+   margin-left: 1000px;
+   margin-top: -150px;
+}
+.postsp{
+    color: white;
+    font-size: 28px;
+    text-shadow: 1px 1px black;
+    margin-left: 885px;
+    margin-top: -10px;
+    font-weight: bold;
+}
+.readcheck{
+    font-size: 23px;
+    color: #008db1;
+    border: 1px solid gray;
+    border-radius: 300px;
+    background-color: white;
+    font-weight: bold;
+    text-decoration: none;
+    height: 77px;
+    width: 400px;
+    margin-left: 950px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.ycourses{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+}
+.linkcourses{
+    border: 1px solid gray;
+    width: 1275px;
+    margin-top: -10px;
+    margin-left: 63px;
+    height: 300px;
+    display: flex;
+    overflow: scroll;
+    background-color: #D5E8FF;
+}
+.linkcourses Link{
+    text-decoration: none;
+}
+.lscience{
+    border-radius: 100px;
+}
+.link-lpic{
+    border-radius: 300px;
+    width: 200px;
+    height: 185px;
+}
+.link-lp{
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: -2px;
+}
+.lfunc{
+    text-decoration: none;
+    margin-left: 90px;
+    text-align: center;
+    margin-top: 25px;
+}
