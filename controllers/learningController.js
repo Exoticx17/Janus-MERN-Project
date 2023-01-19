@@ -67,12 +67,12 @@ const learningSearch = async(req,res) => {
 
         if(!category && title){
 
-            const learning = await Learning.find({$text: { $search: title}, accepted: 'true'}).skip(page* postsPerPage).limit(postsPerPage)
+            const learning = await Learning.find({$text: { $search: title, $caseSensitive: false}, accepted: 'true'}).skip(page* postsPerPage).limit(postsPerPage)
             res.status(200).json(learning)
             
         } else if(category && title){
 
-            const learning = await Learning.find({ $text: { $search: title}, category: category, accepted: 'true' }).skip(page* postsPerPage).limit(postsPerPage)
+            const learning = await Learning.find({ $text: { $search: title, $caseSensitive: false}, category: category, accepted: 'true' }).skip(page* postsPerPage).limit(postsPerPage)
             res.status(200).json(learning)
         } else if(category && !title){
 
