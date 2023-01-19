@@ -36,12 +36,12 @@ const graphGetSearch = async(req,res) => {
         
         if(!subject && title) {
 
-            const graph = await Graph.find({$text: { $search: title}}).skip(page* postsPerPage).limit(postsPerPage)
+            const graph = await Graph.find({$text: { $search: title, $caseSensitive: false}}).skip(page* postsPerPage).limit(postsPerPage)
             res.status(200).json(graph)
         }
         else if(subject && title){
 
-            const graph = await Graph.find({$text: { $search: title}, subject: subject}).skip(page* postsPerPage).limit(postsPerPage)
+            const graph = await Graph.find({$text: { $search: title, $caseSensitive: false}, subject: subject}).skip(page* postsPerPage).limit(postsPerPage)
             res.status(200).json(graph)
 
         } else if(subject && !title){
